@@ -6,3 +6,4 @@
 - 💬 Ask me about HTML,CSS,JavaScript,PHP,MySQL,Node.js,React.js,etc.
 - 📫 How to reach me: sornapudi.vasanthi@gmail.com
 
+[![Meghana Vasanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
