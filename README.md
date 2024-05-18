@@ -7,3 +7,4 @@
 - 📫 How to reach me: sornapudi.vasanthi@gmail.com
 
 [![Meghana Vasanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasanthi0812)](https://github.com/anuraghazra/github-readme-stats)
+![Meghana Vasanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasanthi0812&show_icons=true&theme=transparent)
