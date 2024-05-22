@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning  TypeScript
 - 💬 Ask me about HTML,CSS,JavaScript,PHP,MySQL,Node.js,React.js,etc.
 - 📫 How to reach me: sornapudi.vasanthi@gmail.com
-
+- wordpress: https://vasanthi812.wordpress.com/
 
 ![Meghana Vasanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasanthi0812&show_icons=true&theme=transparent)
 
